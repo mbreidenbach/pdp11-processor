@@ -18,7 +18,7 @@ entity andN is
         A : IN  std_logic_vector(N-1  downto  0);
 		B : IN  std_logic_vector(N-1  downto  0);
         Y : OUT  std_logic_vector(N-1  downto  0)
-        );
+    );
 end andN;
 
 architecture  dataflow  of andN is

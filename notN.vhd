@@ -17,7 +17,7 @@ entity notN is
     PORT(
         A : IN  std_logic_vector(N-1  downto  0);
         Y : OUT  std_logic_vector(N-1  downto  0)
-        );
+    );
 end notN;
 
 architecture  dataflow  of notN is
