@@ -13,12 +13,13 @@ library ieee;
 use IEEE.STD_LOGIC_1164.ALL;
 
 entity full_adder is
-	port(	A : in std_logic;
-			B : in std_logic;
-			Cin : in std_logic;
-			Y : out std_logic;
-			Cout : out std_logic
-		);
+	PORT(	
+		A : in std_logic;
+		B : in std_logic;
+		Cin : in std_logic;
+		Y : out std_logic;
+		Cout : out std_logic
+	);
 end entity;
 
 -- TODO: make into a structural design
