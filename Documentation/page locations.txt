@@ -7,3 +7,12 @@ pg 83 processor signals
 
 ArthEelement
 pg 41 adder
+
+
+
+1120_SystemSchemes_Feb70
+pg 34 K7-2 Arithmteic Unit
+
+
+Other useful links:
+http://www.elektronikjk.com/elementy_czynne/IC/7453.pdf

@@ -1,0 +1,10 @@
+------------------------------------------------------
+-- Author        : Matthew Breidenbach
+-- Design Name   : adder_unit
+-- Module Name   : adder_unit
+-- Architecture  : structural 
+-- Project Name  : pdp11_processor
+-- Target Devices: Basys3
+--
+-- Description: The linking of multiple full adders
+------------------------------------------------------
