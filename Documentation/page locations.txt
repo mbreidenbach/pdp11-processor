@@ -1,3 +1,4 @@
+TODO: clean this up
 pg 57 4.11 data pathing
 pg 22 good flowchart, component desc.
 pg 24 3.9 addr modes, major states
